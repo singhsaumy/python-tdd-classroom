@@ -1,4 +1,4 @@
-# testing 1..2..3
+# testing 1..2..3 for build
 # python-tdd-classroom
 A hand-on session with TDD and unit testing in python.
 
